@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gemini Social VN",
+  "description": "Một mạng xã hội demo hiện đại sử dụng React và Gemini API. Người dùng có thể đăng bài, xem newsfeed được tạo bởi AI và trò chuyện với bạn bè ảo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
